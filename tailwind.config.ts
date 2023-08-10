@@ -1,18 +1,20 @@
 import type { Config } from 'tailwindcss'
 
 const config: Config = {
-  content: [
-    './src/**/*.tsx',
-  ],
+  content: ['./src/**/*.tsx'],
   theme: {
     extend: {
+      gridTemplateColumns: {
+        app: 'minmax(18rem, 20rem) 1fr',
+      },
+
       maxWidth: {
-        app: '700px'
+        app: '700px',
       },
 
       colors: {
-        osvaldo: '#333'
-      }
+        osvaldo: '#333',
+      },
     },
   },
   plugins: [],
