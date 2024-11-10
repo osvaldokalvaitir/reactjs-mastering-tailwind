@@ -5,17 +5,18 @@
 </h1>
 
 <h3 align="center">
-  ReactJS - Ignite 2023 Project 8
+  ReactJS - Mastering Tailwind
 </h3>
 
 <p align="center">
   :art: Untitled UI using Next.js, TypeScript, Tailwind CSS, tailwind-merge, tailwind-variants, Collapsible - Radix UI, Scroll Area - Radix UI, Select - Radix UI, Tabs - Radix UI, Lucide, Framer Motion and AutoAnimate
 </p>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-ignite2023-project8.svg?color=00A83A">
+<
+p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-mastering-tailwind.svg?color=00A83A">
 
-  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-ignite2023-project8.svg?color=00A83A">
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-mastering-tailwind.svg?color=00A83A">
 
   <a href="https://kalvaitir.com/">
     <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
@@ -47,10 +48,10 @@ Open terminal:
 
 ```sh
 # Clone this repo
-git clone https://github.com/osvaldokalvaitir/reactjs-ignite2023-project8
+git clone https://github.com/osvaldokalvaitir/reactjs-mastering-tailwind
 
 # Entry in folder
-cd reactjs-ignite2023-project8
+cd reactjs-mastering-tailwind
 
 # Install deps with npm or yarn
 npm install | yarn
