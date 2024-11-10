@@ -12,8 +12,7 @@
   :art: Untitled UI using Next.js, TypeScript, Tailwind CSS, tailwind-merge, tailwind-variants, Collapsible - Radix UI, Scroll Area - Radix UI, Select - Radix UI, Tabs - Radix UI, Lucide, Framer Motion and AutoAnimate
 </p>
 
-<
-p align="center">
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-mastering-tailwind.svg?color=00A83A">
 
   <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-mastering-tailwind.svg?color=00A83A">
