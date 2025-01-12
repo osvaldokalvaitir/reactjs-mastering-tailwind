@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :art: Untitled UI using Next.js, TypeScript, Tailwind CSS, tailwind-merge, tailwind-variants, Collapsible - Radix UI, Scroll Area - Radix UI, Select - Radix UI, Tabs - Radix UI, Lucide, Framer Motion and AutoAnimate
+  :art: Untitled UI Application using Next.js, TypeScript, Tailwind CSS, tailwind-merge, tailwind-variants, Collapsible - Radix UI, Scroll Area - Radix UI, Select - Radix UI, Tabs - Radix UI, Lucide, Framer Motion and AutoAnimate
 </p>
 
 <p align="center">
